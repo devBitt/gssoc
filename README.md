@@ -1,2 +1,3 @@
 # gssoc
-my journey to gsoc 2026
+my journey to gsoc 2026.
+Author:DevBit
